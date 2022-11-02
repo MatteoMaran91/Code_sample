@@ -1,4 +1,3 @@
 # Code Sample
-Selection of scripts used throught my PhD
+Selection of scripts used during my PhD
 maran@cbs.mpg.de
-matteo.maran.1991@gmail.com
