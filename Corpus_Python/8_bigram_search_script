@@ -1,0 +1,41 @@
+while read word
+do
+grep -w "$word" corpus_file.txt >> Er_Ein_results.txt
+done < word_list.txt
+
+
+
+while read word
+do
+grep -w "$word" ./2gm-0002 >> ./Corr_Cap_results.txt
+done < Corr_Cap_Case_list_of_bigrams_20180323.txt
+
+
+while read word
+do
+grep -w "$word" 2gm-0006 >> Corr_low_results.txt
+done < Corr_Low_Case_list_of_bigrams_20180323.txt
+
+while read word
+do
+grep -w "$word" 2gm-0002 >> Inc_Cap_results.txt
+done < Inc_Cap_Case_list_of_bigrams_20180323.txt
+
+while read word
+do
+grep -w "$word" 2gm-0006 >> Inc_low_results.txt
+done < Inc_Low_Case_list_of_bigrams_20180323.txt
+
+
+####### 
+while read word
+do
+grep -w "$word" ./2gm-0002 
+done < Corr_Cap_Case_list_of_bigrams_20180323.txt
+
+
+grep -w "kegelt" 2gm-0006 
+
+
+
+

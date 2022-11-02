@@ -1,0 +1,7 @@
+Upload the two files generated in step 4 (2p_inflected_verb_wordforms_20180322_1428.txt, 3p_inflected_verb_wordforms_20180322_1428.txt) to
+CELEX DB.
+
+Download the output of the match in two txt files:
+
+1. 2p_inflected_matches_22_03_CORR.txt
+2. 3p_inflected_matches_22_03_CORR.txt

@@ -1,0 +1,4 @@
+The first script (1_generate_potential_early_DP_verbs.py) generates an output file: potential_verbs_early_DP_20180321_1651.txt.
+
+Upload this file to CELEX and check how many of these infinitive forms actually exist.
+Save the output of CELEX search to: new_lemma_match_verbs_early_DP_21_03.txt
